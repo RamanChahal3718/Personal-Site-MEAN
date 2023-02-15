@@ -1,8 +1,46 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&family=Barlow:wght@300&family=PT+Serif&family=Scope+One&display=swap');
+
+
+ 
+
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+  font-family: 'Assistant', sans-serif;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'PT Serif', serif;
+  font-family: 'Scope One', serif;
+  background-image: url(../images/hands.jpg);
+  background-size: cover;
+  
 }
+
 
 a {
   color: #00B7FF;
+}
+
+
+
+.navbar-dark {
+  background-color: rgb(82, 77, 77);
+}
+
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+section {
+  padding-left: 33%;
+  padding-right: 33%;
+}
+
+
+.footer {
+  background-color: #343a40;
+  color: #f8f9fa;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
