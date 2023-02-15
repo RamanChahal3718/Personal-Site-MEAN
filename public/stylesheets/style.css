@@ -23,7 +23,7 @@ a {
 
 
 .navbar-dark {
-  background-color: rgb(82, 77, 77);
+  background-color: #343a40;
 }
 
 h1 {
@@ -43,4 +43,16 @@ section {
   position: absolute;
   bottom: 0;
   width: 100%;
+  text-align: center;
+}
+.footer a {
+  color: white;
+  
+  
+  
+}
+
+.footer a:hover {
+  color:#00B7FF;
+  
 }
